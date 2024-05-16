@@ -178,5 +178,10 @@
         "name": "Nexto",
         "type": "rlbot",
         "path": ["$RLBOTPACKROOT", "RLBotPack", "Necto", "Nexto", "bot.cfg"]
+    },
+        "molten": {
+        "name": "Molten",
+        "type": "rlbot",
+        "path": ["$RLBOTPACKROOT", "RLBotPack", "Molten", "bot.cfg"]
     }
 }
